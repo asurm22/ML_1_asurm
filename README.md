@@ -51,3 +51,7 @@ n_jobs=-1
 
 საბოლოო კოდში ფიჩერებზე დაკვირვება და სხვადასხვა საბოლოოდ არა საჭირო კოდის
 ნაწილები ამოვაკელი და დავტოვე მხოლოდ საბოლოო მოდელის შესადგენად საჭირო კოდი.
+
+MLFlow experiments:
+[Linear Regression](https://dagshub.com/asurm22/ML_1_asurm.mlflow/#/experiments/2?viewStateShareKey=3894e7dac091113a949e1a0b144bdfbf23f857b1cfb2b6251e919052fe25b155&compareRunsMode=TABLE)
+[Random Forest](https://dagshub.com/asurm22/ML_1_asurm.mlflow/#/experiments/3?viewStateShareKey=3894e7dac091113a949e1a0b144bdfbf23f857b1cfb2b6251e919052fe25b155&compareRunsMode=TABLE)
